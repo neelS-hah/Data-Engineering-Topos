@@ -1,0 +1,63 @@
+[
+  {
+    "description": "City Name",
+    "mode": "REQUIRED",
+    "name": "qtr",
+    "type": "STRING"
+  },
+   {
+    "description": "State Name",
+    "mode": "NULLABLE",
+    "name": "State",
+    "type": "STRING"
+  },
+  
+  {
+    "description": "Census Population in 2018",
+    "mode": "NULLABLE",
+    "name": "Population 2018",
+    "type": "STRING"
+  },
+   {
+    "description": "Census Population in 2008",
+    "mode": "NULLABLE",
+    "name": "Population 2008",
+    "type": "STRING"
+  },
+  {
+    "description": "Percent change in population",
+    "mode": "NULLABLE",
+    "name": "Percent Change",
+    "type": "STRING"
+  },
+   {
+    "description": "Area in Square Miles",
+    "mode": "NULLABLE",
+    "name": "Land Area sq mi",
+    "type": "STRING"
+  },
+  {
+    "description": "Area in Square Kilometeres",
+    "mode": "NULLABLE",
+    "name": "Land Area sq km",
+    "type": "STRING"
+  },
+  {
+    "description": "Population Density per Square Miles",
+    "mode": "NULLABLE",
+    "name": "Population Density sq mi",
+    "type": "String"
+  },
+  {
+    "description": "Population Density per Square Kilometer",
+    "mode": "NULLABLE",
+    "name": "Population Density sq km",
+    "type": "String"
+  },
+  {
+    "description": "Latitude and Longitude values in decimal degrees",
+    "mode": "NULLABLE",
+    "name": "Lat/Long Degrees ",
+    "type": "String"
+  }
+]
